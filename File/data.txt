@@ -1,0 +1,3 @@
+Hi, Learning Read File using Scanner Class.
+This is one of the important topiics in java.
+So, we need to learn this concept carefully.
